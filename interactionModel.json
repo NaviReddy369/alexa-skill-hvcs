@@ -1,0 +1,98 @@
+{
+  "interactionModel": {
+    "languageModel": {
+      "intents": [
+        {
+          "name": "AMAZON.CancelIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.HelpIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.StopIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "HelloWorldIntent",
+          "samples": [
+            "concierge service",
+            "Hudson Valley ",
+            "HVCS",
+            "Hi HVCS",
+            "hello",
+            "how are you",
+            "say hi world",
+            "say hi",
+            "hi",
+            "say hello world",
+            "say hello"
+          ]
+        },
+        {
+          "name": "AMAZON.NavigateHomeIntent",
+          "samples": []
+        },
+        {
+          "name": "AMAZON.FallbackIntent",
+          "samples": []
+        },
+        {
+          "slots": [],
+          "name": "hellohvcsIntent",
+          "samples": [
+            "Can you assist me with Hudson Valley services",
+            "hvcs services",
+            "What services does Hudson Valley offer",
+            "Tell me about Hudson Valley"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "CompanyInfoIntent",
+          "samples": [
+            "What is your company about",
+            "What services do you offer",
+            "Tell me about your company"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "ContactInfoIntent",
+          "samples": [
+            "Tell me about your website",
+            "Give me your email address",
+            "What is your phone number",
+            "How can I contact you"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "OperatingHoursIntent",
+          "samples": [
+            "When can I visit your office",
+            "What time do you open and close",
+            "Tell me your operating hours",
+            "When are you open",
+            "What are your working hours"
+          ]
+        },
+        {
+          "slots": [],
+          "name": "LocationIntent",
+          "samples": [
+            "Where can I visit you",
+            "Where is your location",
+            "Tell me where I can find your office",
+            "What is your address",
+            "Where are you located"
+          ]
+        }
+      ],
+      "types": [],
+      "invocationName": "hello h. v. c. s."
+    }
+  }
+}
